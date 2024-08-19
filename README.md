@@ -101,7 +101,7 @@ In USD Composer or Kit, open omniverse://localhost/Users/<Username>/imu-data/Cub
 
 Here's how-to join a live collaboration session. Press the live icon in the upper right corner and Click on Join Session
 
-![image](https://github.com/user-attachments/assets/c12bd89f-f553-49ca-8f72-9fd73207bab4)
+![image](https://github.com/user-attachments/assets/d228eddd-dc53-49c5-8545-6b7606b578ce)
 
 Select iot-session from the drop down to join the already created live session.
 
