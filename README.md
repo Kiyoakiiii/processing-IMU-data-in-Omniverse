@@ -101,15 +101,9 @@ In USD Composer or Kit, open omniverse://localhost/Users/<Username>/imu-data/Cub
 
 Here's how-to join a live collaboration session. Press the live icon in the upper right corner and Click on Join Session
 
-![屏幕截图 2024-07-28 163601](https://github.com/user-attachments/assets/07399f03-1268-428b-8e89-ce990acc9756)
-
 Select iot-session from the drop down to join the already created live session.
 
-![屏幕截图 2024-07-28 163617](https://github.com/user-attachments/assets/3b4fd994-1946-495d-85d8-d97e837a0911)
-
 After joining the session, you can see the created blocks
-
-![image](https://github.com/user-attachments/assets/ddd69fee-40e0-40dd-9a5f-bc2a057431a4)
 
 
 # Sensor side
@@ -118,7 +112,8 @@ You can use a development board (here we use Jetson Orin Nano) to read IMU data.
 
 Connect the MPU6050 and Jetson Orin Nano board according to the correct pins
 
-![image](https://github.com/user-attachments/assets/88bb0fd6-ed0b-4097-afc1-fa7add2e1b86)
+![image](https://github.com/user-attachments/assets/079c2bf2-65d2-4f66-9c8a-aaac86aaba69)
+
 
 Write a program on Jetson Orin Nano to read sensor data (Flask is used here to send and receive data)
 ```
