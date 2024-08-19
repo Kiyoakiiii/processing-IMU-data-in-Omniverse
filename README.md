@@ -145,7 +145,9 @@ while True:
     time.sleep(The time interval for sending data)
 ```
 
-After running the code on the Windows side, run this code on the development board to establish a connection and transmit IMU data to Windows.And the generated blocks will move according to the motion data of the sensor.The more accurate the sensor and the better the network environment, the more accurate the movement of the cube will be.
+After running the code on the Windows side, run this code on the development board to establish a connection and transmit IMU data to Windows.And the generated blocks will move according to the motion data of the sensor.
+
+The more accurate the sensor and the better the network environment, the more accurate the movement of the cube will be.
 
 
 
